@@ -1,0 +1,1 @@
+![image-20211211125050202](MarkDownImages/day1-14-集群Linux环境搭建-时钟同步.assets/image-20211211125050202.png)
