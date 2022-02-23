@@ -1,0 +1,43 @@
+Hadoop3.X 高可用架构配置
+https://blog.csdn.net/weixin_38335560/article/details/102585907
+
+
+hadoop3.2.1高可用集群搭建(一看就会，不会你打我)
+https://blog.csdn.net/weixin_45785893/article/details/109317582?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6.pc_relevant_default&utm_relevant_index=12
+
+
+
+搭建Hadoop完全分布式高可用集群
+https://blog.csdn.net/mengshicheng1992/article/details/116759501?spm=1001.2101.3001.6650.19&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-19.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-19.pc_relevant_default&utm_relevant_index=25
+
+
+Hadoop3+zookeeper3 HA高可用集群搭建
+https://blog.csdn.net/qq_40235064/article/details/89074917?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0.pc_relevant_aa&spm=1001.2101.3001.4242.1&utm_relevant_index=3
+
+
+hadoop 3.1.1的集群搭建并完成高可用配置(详细版)
+https://blog.csdn.net/u011328843/article/details/84140854
+
+
+Hadoop3 HA高可用集群搭建
+https://blog.csdn.net/Airch7/article/details/85122746
+
+
+Hadoop3系列——(二)搭建HDFS高可用
+https://blog.csdn.net/qq_41622603/article/details/108747739
+
+
+Hadoop3+zookeeper3 HA高可用集群搭建
+https://blog.csdn.net/qq_40235064/article/details/89074917
+
+
+Centos 7 Hadoop3.x HA 高可用搭建教程
+https://blog.csdn.net/qq_40076192/article/details/102402186
+
+
+hadoop3.2.1高可用集群搭建(一看就会，不会你打我)
+https://blog.csdn.net/weixin_45785893/article/details/109317582
+
+
+
+
